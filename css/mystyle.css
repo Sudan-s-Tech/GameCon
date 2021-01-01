@@ -14,6 +14,11 @@
 .orange-bg{
     background-color: #DB7C26;
 }
+
+.orange-hover:hover{
+    background-color: #DB7C26;
+}
+
 .deep-blue-bg{
     background-color: #07004D;
 }
@@ -56,18 +61,12 @@
     margin-bottom: 35px;
 }
 
-.sponsor-red{
-    display: inline-block;
-    text-align: center;
-    border-radius: 5px;
-    padding: 40px 15px;
-    margin: 35px 0;
-    width: 100%;
-  /*max-width: 288px;*/
-    background-color: #ffffff;
-    z-index: 1;
-    -webkit-box-shadow: 0 0 0 1px #e6af18;
-    box-shadow: 0 0 0 1px #e02323;
-    -webkit-transition: all 0.3s ease;
-    transition: all 0.3s ease;
-}
+
+.custom-center{
+    width: 70px;
+    height: 300px;
+    border: 1px solid #c3c3c3;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+  }
