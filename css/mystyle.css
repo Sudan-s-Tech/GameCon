@@ -36,7 +36,16 @@
     background-color: #7289da;
 }
 
+.youtube{
+    background-color: #FF0000;
+}
+
 .discord:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.youtube:hover{
     text-decoration: none;
     color: white;
 }
