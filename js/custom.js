@@ -39,7 +39,7 @@ $('a[href*="#"]')
 
 
   // Set the date we're counting down to
-var countDownDate = new Date("Jan 9, 2021 17:00:00").getTime();
+var countDownDate = new Date("Jan 19, 2021 15:30:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
