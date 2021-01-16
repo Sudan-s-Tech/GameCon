@@ -1740,7 +1740,8 @@ nav.navbar .nav .open > a:focus {
 }
 
 .pricing-box .pricing-icon {
-    margin-bottom: 10px;
+    margin-bottom: 0px;
+    margin-top: 45px;
 }
 
 .pricing-box .pricing-icon .icon {
