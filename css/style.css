@@ -3712,6 +3712,9 @@ nav.navbar .nav .open > a:focus {
     #header-holder .custom-bg {
         background-size: 70%;
     }
+    .navbar-brand img {
+        width: 50px;
+    }
 
     .rtl-row div[class^="col-"] {
         float: inherit;
@@ -3892,6 +3895,9 @@ nav.navbar .nav .open > a:focus {
 
     nav.navbar .navbar-toggle {
         margin-right: 0;
+    }
+    .navbar-brand img {
+        width: 50px;
     }
 
     .navbar-brand {
